@@ -16,6 +16,6 @@ public class sum{
             usr_int = int_input("The sum of your numbers will be added together until you guess my super secret number: ");
             sum += usr_int;//Adds user input and sum.
         }
-        System.out.println("Good job, you did it. Your sum is "+ sum); //Displays sum
+        System.out.println("You did it! Your sum is "+ sum); //Displays sum
     }
 }
